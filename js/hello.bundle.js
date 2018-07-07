@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["hello"],{3:function(o,l,n){"use strict";n.r(l),n.d(l,"HelloWorld",function(){return e});var s=n(2);class e{say(){s(()=>{console.log("Hello World")})}}}}]);

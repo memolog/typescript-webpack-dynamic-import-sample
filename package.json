@@ -1,0 +1,30 @@
+{
+  "name": "typescript-webpack-dynamic-import-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memolog/typescript-webpack-dynamic-import-sample.git"
+  },
+  "author": "Yutaka Yamaguchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memolog/typescript-webpack-dynamic-import-sample/issues"
+  },
+  "homepage": "https://github.com/memolog/typescript-webpack-dynamic-import-sample#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.4",
+    "eslint": "^5.0.1",
+    "ts-loader": "^4.4.2",
+    "typescript": "^2.9.2",
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
